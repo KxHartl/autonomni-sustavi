@@ -2,14 +2,14 @@
 
 **Autonomni sustavi**
 
-> Course exercises – Autonomous Systems (Autonomni sustavi), FSB, University of Zagreb, 2025
+> Autonomous Systems, BSc in Mechatronics and Robotics, FSB, University of Zagreb, 2024
 
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/sim-Gazebo-F58113)
 ![RViz](https://img.shields.io/badge/viz-RViz2-22314E)
 
-Homework for the Autonomous Systems course, written as ROS 2 Python nodes. The assignments go
+Homework for the bachelor course Autonomous Systems, written as ROS 2 Python nodes. The assignments go
 from a simple publisher and subscriber, through tf2 with turtlesim and a robot arm model in RViz,
 to a TurtleBot3 that finds its way around obstacles with the Bug2 algorithm in Gazebo.
 
