@@ -43,3 +43,7 @@ colcon build
 source install/setup.bash
 ros2 launch zadaca_06 zadaca_06.launch.py
 ```
+
+## License
+
+[Apache-2.0](LICENSE). It covers the author's own work in this repository. Third-party parts keep their own licences.
